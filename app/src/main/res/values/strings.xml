@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name_ascii">Beacon</string>
+    <string name="app_name">ᛒeacon</string>
+    <string name="add">Add</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_advertisement">New Advertisement</string>
+    <string name="display_name">Display name</string>
+    <string name="profile_list">Profile list</string>
+
+    <string name="power_ultra_low">-21</string>
+    <string name="power_low">-15</string>
+    <string name="power_medium">-7</string>
+    <string name="power_high">1</string>
+    <string name="dbm">dBm</string>
+
+    <string name="mode_low_power">1000</string>
+    <string name="mode_balanced">250</string>
+    <string name="mode_low_latency">100</string>
+    <string name="ms">ms</string>
+
+    <string name="advertising_mode">Advertising mode</string>
+    <string name="tx_power">TX power</string>
+    <string name="advertising_mode_selector">Advertising mode selector</string>
+    <string name="transmission_power_selector">Transmission power selector</string>
+    <string name="device_name_enabled_symbol">N</string>
+    <string name="tx_power_level_enabled_symbol">P</string>
+    <string name="device_name">Device name</string>
+    <string name="tx_power_level">TX power level</string>
+
+    <string-array name="advertising_modes">
+        <item>LOW POWER (1000 ms)</item>
+        <item>BALANCED (250 ms)</item>
+        <item>LOW LATENCY (100 ms)</item>
+    </string-array>
+
+    <string-array name="tx_power_levels">
+        <item>ULTRA LOW (-21 dBm)</item>
+        <item>LOW (-15 dBm)</item>
+        <item>MEDIUM (-7 dBm)</item>
+        <item>HIGH (1 dBm)</item>
+    </string-array>
+</resources>
